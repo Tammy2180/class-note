@@ -1,4 +1,4 @@
-# Github 和 Vercel 上架筆記
+# Github 和 4everland 上架筆記
 
 ## 設定 Github 
 
@@ -66,7 +66,7 @@
 
 21.完成！！！
 
-## 設定 Vercel
+## 設定 4everland
 
 1.首先與 Github 進行連結
 
@@ -78,8 +78,10 @@
 
 5.Output Directory 輸入「docs/.vuepress/dist/」
 
-6.按下「deploy」
+6.將 Deploy Hooks 點開
 
-7.完成並顯示出網址~~
+7.按下「deploy」
+
+8.完成並顯示出網址~~
 
 ## 結束！！！
