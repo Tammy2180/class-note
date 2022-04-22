@@ -142,4 +142,4 @@
 
 13.出現一個 local 的網址
 
-14.即可從網站上查看設計後的模板
+![](C:\Users\Tammy\Desktop\node.png)
