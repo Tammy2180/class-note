@@ -7,5 +7,5 @@ tagline: 我只想混分......
 actions:
   - text: 查看筆記
     link: /blog/
-    type: primary
+    type: primaryn
 ---
